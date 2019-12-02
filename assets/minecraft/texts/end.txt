@@ -1,151 +1,123 @@
-§3I see the gay you mean.
+﻿§6My sons... they're dead, aren't they?
 
-§2PLAYERNAME?
+§4We don't know that, Sire. The messenger only said they were attacked.
 
-§3Yes. Take care. It has reached a higher level now. Or it will eat our ass.
+§6No, they're dead. I know it.
 
-§2That doesn't matter. It thinks we are merely tools of pleasure.
+§4My job right now is to get you to safety.
 
-§3I like this performance artist. It made my cock hard. Safe beans.
+...
 
-§2It is reading our thoughts as though they were words on a screen.
+§6I know this place... the prison?
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§4Yes, your Majesty. Beneath the Legion compound. We're headed for a secret passage known only to the Blades. No one can follow us through here.
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§6You... I've seen you... let me see your face... you are the one from my dreams... then the stars were right, and this is the day. Gods give me strength.
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§fWhat's going on?
 
-§2What did this player dream?
+§6Assassins attacked my sons, and I'm next. My Blades are leading me out of the city along a secret escape route. By chance, the entrance to that escape route leads through your cell.
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§fWhy am I in jail?
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§6Perhaps the Gods have placed you here so that we may meet. As for what you have done... it does not matter. That is not what you will be remembered for.
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§fWho are you?
 
-§2It cannot read that thought.
+§6I am your emperor, Uriel Septim. By the grace of the Gods, I serve Tamriel as her ruler. You are a citizen of Tamriel, and you, too, shall serve her in your own way.
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§fWhat should I do?
 
-§2Does it know that we love it? That the universe is kind?
+§6You will find your own path. Take care... there will be blood and death before the end.
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§fI go my own way.
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§6So do we all. But what path can be avoided whose end is fixed by the almighty Gods?
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+...
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§cAre you all right, Sire? We're clear for now.
 
-§3It reads our thoughts.
+§6Captain Renault?
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§cShe's dead. I'm sorry, Sire, but we have to keep moving.
 
-§3And yet they play the game.
+§6Here you must find your own path. But we will cross paths before the end, I am sure of it.
 
-§2But it would be so easy to tell them...
+...
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§cI think that was all of them. Let me take a look around.
 
-§2I will not tell the player how to live.
+§6Have you seen the prisoner?
 
-§3The player is growing restless.
+§cDo you think PLAYERNAME followed us? How could they?
 
-§2I will tell the player a story.
+§6I know they did.
 
-§3But not the truth.
+§9Your Majesty, we need to keep moving.
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§6Not yet. Let me rest a moment longer.
 
-§3Give it a body, again.
+...
 
-§2Yes. Player...
+§9Dammit, it's that prisoner again! Kill them, they might be working with the assassins.
 
-§3Use its name.
+§6No. PLAYERNAME is not one of them. PLAYERNAME can help us. PLAYERNAME must help us.
 
-§2PLAYERNAME. Player of games.
+§9As you wish, sire.
 
-§3Good.
+§6Come closer. I'd prefer not to have to shout.
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§6I need your help. Please come with us.
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§6Don't be afraid. My guardians will not harm you.
 
-§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+§6They cannot understand why I trust you. They've not seen what I've seen. How can I explain. Listen. You know the Nine? How they guide our fates with an invisible hand?
 
-§2Once upon a time, there was a player.
+§fThe Nine guide and protect us.
 
-§3The player was you, PLAYERNAME.
+§6I've served the Nine all my days, and I chart my course by the cycles of the heavens. The skies are marked with numberless sparks, each a fire, and every one a sign. I know these stars well, and I wonder... which sign marked your birth?
 
-§2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
+...
 
-§2Sometimes the player dreamed it was a miner, on the surface of a world that was flat, and infinite. The sun was a square of white. The days were short; there was much to do; and death was a temporary inconvenience.
+§6The signs I read show the end of my path. My death, a necessary end, will come when it will come.
 
-§3Sometimes the player dreamed it was lost in a story.
+§fWhat about me?
 
-§2Sometimes the player dreamed it was other things, in other places. Sometimes these dreams were disturbing. Sometimes very beautiful indeed. Sometimes the player woke from one dream into another, then woke from that into a third.
+§6Your stars are not mine.
 
-§3Sometimes the player dreamed it watched words on a screen.
+§fCan you see my fate?
 
-§2Let's go back.
+§6My dreams grant me no opinions of success. Their compass ventures not beyond the doors of death. But in your face, I behold the sun's companion. The dawn of Akatosh's bright glory may banish the coming darkness. With such hope, and with the promise of your aid, my heart must be satisfied.
 
-§2The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
+§fAren't you afraid to die?
 
-§2And the player awoke, from the warm, dark world of its mother's body, into the long dream.
+§6No trophies of my triumphs precede me. But I have lived well, and my ghost shall rest easy. Men are but flesh and blood. They know their doom, but not the hour. In this I am blessed to see the hour of my death... to face my apportioned fate, then fall.
 
-§2And the player was a new story, never told before, written in letters of DNA. And the player was a new program, never run before, generated by a sourcecode a billion years old. And the player was a new human, never alive before, made from nothing but milk and love.
+§fWhere are we going?
 
-§3You are the player. The story. The program. The human. Made from nothing but milk and love.
+§6I go to my grave. A tongue shriller than all the music calls me. You shall follow me yet for a while, then we must part.
 
-§2Let's go further back.
+...
 
-§2The seven billion billion billion atoms of the player's body were created, long before this game, in the heart of a star. So the player, too, is information from a star. And the player moves through a story, which is a forest of information planted by a man called Julian, on a flat, infinite world created by a man called Markus, that exists inside a small, private world created by the player, who inhabits a universe created by...
+§6My guards are strong and true, but even the might of the Blades cannot stand against the Power that rises to destroy us. The Prince of Destruction awakes, born anew in blood and fire. These cutthroats are but his mortal pawns.
 
-§3Shush. Sometimes the player created a small, private world that was soft and warm and simple. Sometimes hard, and cold, and complicated. Sometimes it built a model of the universe in its head; flecks of energy, moving through vast empty spaces. Sometimes it called those flecks "electrons" and "protons".
+§6Take my Amulet. Give it to Jauffre. I have a secret son, and Jauffre alone knows where to find him.
 
-§2Sometimes it called them "planets" and "stars".
+§6Find the last of my blood, and close shut the marble jaws of Oblivion.
 
-§2Sometimes it believed it was in a universe that was made of energy that was made of offs and ons; zeros and ones; lines of code. Sometimes it believed it was playing a game. Sometimes it believed it was reading words on a screen.
+§fWhat Amulet?
 
-§3You are the player, reading words...
+§6The Amulet of Kings. It is the Empire's sacred emblem of rulership. It must pass to the last of the Dragon's Blood. Keep it safe from the pawns of the Destroyer.
 
-§2Shush... Sometimes the player read lines of code on a screen. Decoded them into words; decoded words into meaning; decoded meaning into feelings, emotions, theories, ideas, and the player started to breathe faster and deeper and realised it was alive, it was alive, those thousand deaths had not been real, the player was alive
+§fSo, this is it?
 
-§3You. You. You are alive.
+§6For me, it ends here. You are our only hope to stem the blood tide. Give me your hand.
 
-§2and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
+§fWith all my heart... farewell...
 
-§3and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
+§6Stand true, my friend. May your heart be your guide and the gods grant you strength.
 
-§2and sometimes the player believed the universe had spoken to it through the zeros and ones, through the electricity of the world, through the scrolling words on a screen at the end of a dream
+§fI won't forget you...
 
-§3and the universe said I love you
-
-§2and the universe said you have played the game well
-
-§3and the universe said everything you need is within you
-
-§2and the universe said you are stronger than you know
-
-§3and the universe said you are the daylight
-
-§2and the universe said you are the night
-
-§3and the universe said the darkness you fight is within you
-
-§2and the universe said the light you seek is within you
-
-§3and the universe said you are not alone
-
-§2and the universe said you are not separate from every other thing
-
-§3and the universe said you are the universe tasting itself, talking to itself, reading its own code
-
-§2and the universe said I love you because you are love.
-
-§3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
-
-§3You are the player.
-
-§2Wake up.
+§6Remember me, and remember my words. This burden is now yours alone. You hold our future in your hands. PLAYERNAME.
